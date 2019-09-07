@@ -1,7 +1,8 @@
 # Solving AI with a deeply convoluted and nervous network
 
 ## Abstract
-Here, we propose a novel approach to build an amazing AI using the so called DCNNs.
+
+We propose a novel approach to build an amazing AI using the so called DCNNs.
 
 ## Introduction
 
