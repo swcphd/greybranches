@@ -5,7 +5,7 @@
 We propose a novel approach to build an amazing AI using the so called DCNNs.
 
 ## Introduction
-We want to use something
+We propose to use fully connected networks instead of convolutions.
 
 ## Background
 
