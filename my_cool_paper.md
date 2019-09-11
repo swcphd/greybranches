@@ -2,7 +2,7 @@
 
 ## Abstract
 
-We propose a novel approach to build an amazing AI using the so called DCNNs.
+We propose a novel approach to build an amazing AI using the so called DCNNs. This is the best network ever!
 
 ## Introduction
 We propose to use convolutions instead of fully connected  networks.
