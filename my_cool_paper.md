@@ -1,7 +1,7 @@
 # Solving AI with a deeply convoluted and nervous network
 
 ## Abstract
-
+ 
 We propose a novel approach to build an amazing AI using the so called DCNNs. This is the best network ever!
 
 ## Introduction
@@ -33,3 +33,6 @@ Avoid exploiding gradients
 
 
 ## Conclusion
+
+## Acknowledgements 
+Thank you humanity. 
