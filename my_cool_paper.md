@@ -31,5 +31,6 @@ Avoid exploiding gradients
 ### Batch normalization
 ### Etc,...
 
-
+### Section to demonstrate avoiding conflicts
+In order to avoid the introduction of conflicts between the layers of the network, each network is instructed to work independently of the others, without existing knowledge of the other layers, in the hope that the layers will not clash with each other.  This is speculative, and deserves further investigation.
 ## Conclusion
