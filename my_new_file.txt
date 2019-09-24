@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Edits made to this file
+=======
+## Hello world
+>>>>>>> 517c6803c1686d95d05c8f46f0329b72647eeb13

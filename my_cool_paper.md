@@ -9,7 +9,7 @@ We propose to use convolutions instead of fully connected  networks because conv
 
 ## Background
 Notions in algebraic topology and metric measure spaces. 
-
+Random edit to test conflicts
 
 ## Convoluted layers increase excitation of nervous networks
 
@@ -34,4 +34,5 @@ Avoid exploiding gradients
 ### Section to demonstrate avoiding conflicts
 In order to avoid the introduction of conflicts between the layers of the network, each network is instructed to work independently of the others, without existing knowledge of the other layers, in the hope that the layers will not clash with each other.  This is speculative, and deserves further investigation.
 ## Conclusion
-We are trying to do stuff in git
+We are trying to do stuff in git.  
+In conclusion, ![shiba](shiba.jpg)
