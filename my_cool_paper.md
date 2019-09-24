@@ -38,5 +38,7 @@ Thank you humanity.
 
 ## Conclusion
 We are trying to do stuff in git.  
-In conclusion, ![shiba](shiba.jpg)
+In summary:
+
+ ![shiba](shiba.jpg)
 
