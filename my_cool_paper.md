@@ -34,10 +34,17 @@ Avoid exploiding gradients
 ### Batch normalization
 ### Etc,...
 
+<<<<<<< HEAD
+### Section to demonstrate avoiding conflicts
+In order to avoid the introduction of conflicts between the layers of the network, each network is instructed to work independently of the others, without existing knowledge of the other layers, in the hope that the layers will not clash with each other.  This is speculative, and deserves further investigation.
+=======
 ## Acknowledgements 
 Thank you humanity. 
 
+>>>>>>> a216b13f2fd3dca106e6338b76c3e16f241ee340
 ## Conclusion
 We are trying to do stuff in git.  
-In conclusion, ![shiba](shiba.jpg)
+In summary:
+
+ ![shiba](shiba.jpg)
 

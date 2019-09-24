@@ -1,5 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+Edits made to this file
+=======
+## Hello world
+>>>>>>> 517c6803c1686d95d05c8f46f0329b72647eeb13
+=======
 print('hi')
 =======
 ## Hello world
 >>>>>>> a399162ee1f80f5486ad8ebd77a96ae2b36349c6
+>>>>>>> a216b13f2fd3dca106e6338b76c3e16f241ee340
