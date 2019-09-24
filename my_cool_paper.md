@@ -35,4 +35,5 @@ Avoid exploiding gradients
 
 
 ## Conclusion
-We are trying to do stuff in git
+We are trying to do stuff in git.  
+In conclusion, ![shiba](shiba.jpg)
