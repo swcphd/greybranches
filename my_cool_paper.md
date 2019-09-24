@@ -3,6 +3,7 @@
 ## Abstract
 
 ##Modification made by Liyuan
+A paper about DCNNs has been requested by our phD overlords
 We propose a novel approach to build an amazing AI using the so called DCNNs. This is the best network ever!
 
 ## Introduction
@@ -10,7 +11,7 @@ We propose to use convolutions instead of fully connected  networks because conv
 
 ## Background
 Notions in algebraic topology and metric measure spaces. 
-
+Random edit to test conflicts
 
 ## Convoluted layers increase excitation of nervous networks
 
@@ -34,3 +35,4 @@ Avoid exploiding gradients
 
 
 ## Conclusion
+We are trying to do stuff in git
