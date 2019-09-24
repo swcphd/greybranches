@@ -33,3 +33,4 @@ Avoid exploiding gradients
 
 
 ## Conclusion
+In conclusion, ![shiba](shiba.jpg)
