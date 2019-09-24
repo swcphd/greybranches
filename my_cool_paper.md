@@ -9,7 +9,7 @@ We propose to use convolutions instead of fully connected  networks because conv
 
 ## Background
 Notions in algebraic topology and metric measure spaces. 
-
+Random edit to test conflicts
 
 ## Convoluted layers increase excitation of nervous networks
 
@@ -33,8 +33,13 @@ Avoid exploiding gradients
 
 
 ## Conclusion
+<<<<<<< HEAD
 
 Yo! I'm making a smart conclusion.
 
 We are trying to do stuff in git
 
+=======
+We are trying to do stuff in git.  
+In conclusion, ![shiba](shiba.jpg)
+>>>>>>> 517c6803c1686d95d05c8f46f0329b72647eeb13
