@@ -1,7 +1,10 @@
 # Solving AI with a deeply convoluted and nervous network
 
 ## Abstract
+
+##Modification made by Liyuan
 A paper about DCNNs has been requested by our phD overlords
+
 We propose a novel approach to build an amazing AI using the so called DCNNs. This is the best network ever!
 
 ## Introduction
@@ -31,7 +34,14 @@ Avoid exploiding gradients
 ### Batch normalization
 ### Etc,...
 
+<<<<<<< HEAD
+### Section to demonstrate avoiding conflicts
+In order to avoid the introduction of conflicts between the layers of the network, each network is instructed to work independently of the others, without existing knowledge of the other layers, in the hope that the layers will not clash with each other.  This is speculative, and deserves further investigation.
+=======
+## Acknowledgements 
+Thank you humanity. 
 
+>>>>>>> a216b13f2fd3dca106e6338b76c3e16f241ee340
 ## Conclusion
 <<<<<<< HEAD
 
@@ -41,5 +51,12 @@ We are trying to do stuff in git
 
 =======
 We are trying to do stuff in git.  
+<<<<<<< HEAD
 In conclusion, ![shiba](shiba.jpg)
 >>>>>>> 517c6803c1686d95d05c8f46f0329b72647eeb13
+=======
+In summary:
+
+ ![shiba](shiba.jpg)
+
+>>>>>>> 0ced78a33d7a1fc8dbba5af6ae1defd28afed3ec
